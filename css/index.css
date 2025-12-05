@@ -417,6 +417,10 @@ button {
   letter-spacing: 0.05rem;
   text-transform: uppercase;
 }
+.functional {
+  color: #ff340a;
+  margin: 10px 0;
+}
 .task {
   width: 100%;
 }
