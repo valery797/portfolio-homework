@@ -50,3 +50,9 @@
 
 - 💻 Репозиторий на GitHub: [https://github.com/valery797/portfolio-homework](https://github.com/valery797/portfolio-homework)
 - 🌐 Живая версия проекта: [https://valery797.github.io/portfolio-homework/](https://valery797.github.io/portfolio-homework/)
+
+---
+
+### Автор:
+
+**Валерия Рудакова 2025 г.**
